@@ -2,7 +2,8 @@
 Linked list implementation i had to write for my university
 in the C programming language.
 
-## **Efficiency:
+## **Efficiency:**
+These are worst-case runtimes i might add.
 | **Operation** | **Big O** |
 |----|----|
 | *Insert:*     | Constant time O(1)|
@@ -10,4 +11,4 @@ in the C programming language.
 | *FindItem:*     | Quadratic O(n^2)|
 | *deleteItem:*     | Quadratic O(n^2)|
 | *deleteList:*     | Quadratic O(n^2)|
-These are worst-case runtimes i might add.
+
